@@ -4,12 +4,9 @@ Welcome to my corner of the web! Here’s a little about me:
 
 ### 🚀 Current Mission:
 - 🔭 **Mobile Development** - Always building something exciting! Currently, I’m diving deep into **React-Native** and **Expo** to create smooth, user-friendly mobile apps.
-  
-### 📚 Learning Mode: ON
-- 🌱 Exploring the endless possibilities with **React-Native/Expo**. Learning new techniques and improving my mobile development skills every day!
 
 ### 💡 Collaboration Goals:
-- 👯 Let’s join forces! I’m looking for cool people to collaborate on **React-Native** projects and create awesome things together.
+- 👯 Let’s join forces! I’m looking for people to collaborate on **React-Native** projects and create awesome things together.
 
 ### 💥 Seeking Help:
 - 🤔 Got some **AWS** knowledge? I could use your expertise to navigate cloud deployments, services, and scalability challenges!
