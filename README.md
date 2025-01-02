@@ -68,5 +68,4 @@ Welcome to my corner of the web! Here’s a little about me:
 ### 🤝 Let's Connect:
 Feel free to reach out to me through the following channels:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter)](https://twitter.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)]([https://www.linkedin.com](https://www.linkedin.com/in/sudhanshu-singh-sss2070/)
