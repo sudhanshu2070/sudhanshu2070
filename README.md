@@ -11,8 +11,9 @@ Welcome to my corner of the web! Here’s a little about me:
 ### 🗣️ Let’s Chat:
 - 💬 **Ask me about anything!** Whether it's tech, development, novels, or random fun facts, I'm all ears!
 
-### 📩 Reach Out:
+### 📩 🤝 Get in Touch & Let's Connect:
 - 📧 You can always get in touch with me at: **sssallen2016@gmail.com**
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sudhanshu-singh-sss2070)
 
 ### 🌟 A Few Fun Facts:
 - 😄 **Pronouns**: He/Him
@@ -64,8 +65,3 @@ Welcome to my corner of the web! Here’s a little about me:
 ![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery)
 
 ---
-
-### 🤝 Let's Connect:
-Feel free to reach out to me through the following channels:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sudhanshu-singh-sss2070)
