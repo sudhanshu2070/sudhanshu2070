@@ -8,14 +8,8 @@ Welcome to my corner of the web! Here’s a little about me:
 ### 📚 Learning Mode: ON
 - 🌱 Exploring the endless possibilities with **React-Native/Expo**. Learning new techniques and improving my mobile development skills every day!
 
-### 💡 Collaboration Goals:
-- 👯 Let’s join forces! I’m looking for cool people to collaborate on **React-Native** projects and create awesome things together.
-
-### 💥 Seeking Help:
-- 🤔 Got some **AWS** knowledge? I could use your expertise to navigate cloud deployments, services, and scalability challenges!
-
 ### 🗣️ Let’s Chat:
-- 💬 **Ask me about anything!** Whether it's tech, development, or random fun facts, I'm all ears!
+- 💬 **Ask me about anything!** Whether it's tech, development, novels, or random fun facts, I'm all ears!
 
 ### 📩 Reach Out:
 - 📧 You can always get in touch with me at: **sssallen2016@gmail.com**
