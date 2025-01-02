@@ -22,14 +22,14 @@ Welcome to my corner of the web! Here’s a little about me:
 
 ### 💻 Programming Languages:
 <div align="right">
- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
- ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
- ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp)
- ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
- ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
- ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
- ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
- ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
+    ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+    ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+    ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp)
+    ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+    ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
+    ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+    ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+    ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
 </div>
 
 ---
