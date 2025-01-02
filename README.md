@@ -3,11 +3,8 @@
 Welcome to my corner of the web! Here’s a little about me:
 
 ### 🚀 Current Mission:
-- 🔭 **Mobile Development** - Always building something exciting! Currently, I’m diving deep into **React-Native** and **Expo** to create smooth, user-friendly mobile apps.
+- 🔭 **Mobile Development** - I’m diving deep into **React-Native** and **Expo** to create smooth, user-friendly mobile apps.
   
-### 📚 Learning Mode: ON
-- 🌱 Exploring the endless possibilities with **React-Native/Expo**. Learning new techniques and improving my mobile development skills every day!
-
 ### 🗣️ Let’s Chat:
 - 💬 **Ask me about anything!** Whether it's tech, development, novels, or random fun facts, I'm all ears!
 
