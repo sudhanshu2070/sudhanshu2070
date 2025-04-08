@@ -6,7 +6,7 @@ Welcome to my corner of the web! Here’s a little about me:
 - 🔭 **Mobile Development** - I’m diving deep into **React-Native** and **Expo** to create smooth, user-friendly mobile apps.
   
 ### 🗣️ Let’s Chat:
-- 💬 **Ask me about anything!** Whether it's tech, development, novels, or random fun facts, I'm all ears!!
+- 💬 **Ask me about anything!** Whether it's tech, development, novels, or random fun facts, I'm all ears!
 
 ### 📩 🤝 Get in Touch & Let's Connect:
 - 📧 You can always get in touch with me at: **sssallen2016@gmail.com**
