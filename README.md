@@ -68,5 +68,5 @@ Welcome to my corner of the web! Here’s a little about me:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshu2070&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudhanshu2070&theme=radical)
 
-[comment]: <>  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudhanshu2070&show_icons=true&theme=radical)
+<!--  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudhanshu2070&show_icons=true&theme=radical) -->
 
