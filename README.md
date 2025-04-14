@@ -61,12 +61,12 @@ Welcome to my corner of the web! Here’s a little about me:
 ![AJAX](https://img.shields.io/badge/-AJAX-black?style=flat-square&logo=ajax) &nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery)
 
----
-## My GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshu2070&repos=redweb-frente,w3-backend,blendInFlowers,chat-ai,chatBot-backend,blendInRoots,piedra-uno,yoshe,frontDesk,Extrac,react-phonebook,Boat_Website_React,Kiroku,userMgmnt,uMeAndHealth&layout=compact)
+------
 
-## Coding Activity
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=sudhanshu2070)
+## 📊 My GitHub Stats
 
-## Most Used Languages
-![WakaTime Languages](https://wakatime.com/badge/github/sudhanshu2070/w3-backend.svg)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshu2070&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sudhanshu2070&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudhanshu2070&show_icons=true&theme=radical)
