@@ -62,3 +62,4 @@ Welcome to my corner of the web! Here’s a little about me:
 ![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery)
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshu2070&layout=compact)
