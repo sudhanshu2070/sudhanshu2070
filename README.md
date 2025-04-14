@@ -64,3 +64,9 @@ Welcome to my corner of the web! Here’s a little about me:
 ---
 ## My GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshu2070&repos=redweb-frente,w3-backend,blendInFlowers,chat-ai,chatBot-backend,blendInRoots,piedra-uno,yoshe,frontDesk,Extrac,react-phonebook,Boat_Website_React,Kiroku,userMgmnt,uMeAndHealth&layout=compact)
+
+## Coding Activity
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=sudhanshu2070)
+
+## Most Used Languages
+![WakaTime Languages](https://wakatime.com/badge/github/sudhanshu2070/w3-backend.svg)
