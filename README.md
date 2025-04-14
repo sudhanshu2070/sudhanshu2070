@@ -67,6 +67,6 @@ Welcome to my corner of the web! Here’s a little about me:
 
 ## My GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshu2070&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwal1629&layout=compact)
 
 ![Repo Stats](https://github-readme-stats.vercel.app/api?username=sudhanshu2070&show_icons=true&theme=dark)
