@@ -1,6 +1,3 @@
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-<!-- ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ -->
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 <!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 <!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
@@ -100,10 +97,10 @@ Welcome to my corner of the web! Here’s a little about me:
 ---
 
 ### 📦 Frameworks & Libraries:
-![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular) &nbsp;
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) &nbsp;
 ![React Native](https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react) &nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js) &nbsp;
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular) &nbsp;
 ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android) &nbsp;
 ![MVC](https://img.shields.io/badge/-MVC-black?style=flat-square&logo=microsoft) &nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
@@ -111,18 +108,18 @@ Welcome to my corner of the web! Here’s a little about me:
 ---
 
 ### 🗄️ Databases:
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql) &nbsp;
 ![Oracle](https://img.shields.io/badge/-Oracle-black?style=flat-square&logo=oracle) &nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql) &nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 ---
 
 ### 🔧 Infrastructure & Other Technologies:
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws) &nbsp;
-![GCP](https://img.shields.io/badge/-GCP-black?style=flat-square&logo=googlecloud) &nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) &nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github) &nbsp;
+![GCP](https://img.shields.io/badge/-GCP-black?style=flat-square&logo=googlecloud) &nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab) &nbsp;
 ![Agile](https://img.shields.io/badge/-Agile-black?style=flat-square&logo=agile) &nbsp;
 ![REST API](https://img.shields.io/badge/-REST_API-black?style=flat-square&logo=api) &nbsp;
