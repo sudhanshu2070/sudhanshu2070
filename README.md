@@ -138,8 +138,7 @@ Welcome to my corner of the web! Here’s a little about me:
 
 ## 📊 the GitHub Stats
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudhanshu2070&show_icons=true&theme=github_dark)-->
-<!-- WakaTime -->
-[![WakaTime](https://wakatime.com/badge/user/sudhanshu2070.svg)](https://wakatime.com/@sudhanshu2070)
+<!-- WakaTime [![WakaTime](https://wakatime.com/badge/user/sudhanshu2070.svg)](https://wakatime.com/@sudhanshu2070) -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshu2070&layout=compact&theme=radical)
 
 <!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudhanshu2070&theme=radical)-->
