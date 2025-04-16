@@ -124,6 +124,8 @@ Welcome to my corner of the web! Here’s a little about me:
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws) &nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) &nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github) &nbsp;
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 ![GCP](https://img.shields.io/badge/-GCP-black?style=flat-square&logo=googlecloud) &nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab) &nbsp;
 ![Agile](https://img.shields.io/badge/-Agile-black?style=flat-square&logo=agile) &nbsp;
