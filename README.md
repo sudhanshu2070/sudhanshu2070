@@ -100,6 +100,7 @@ Welcome to my corner of the web! Here’s a little about me:
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) &nbsp;
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
 ![React Native](https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react) &nbsp;
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js) &nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular) &nbsp;
