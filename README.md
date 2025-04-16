@@ -89,6 +89,7 @@ Welcome to my corner of the web! Here’s a little about me:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) &nbsp;
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp) &nbsp;
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java) &nbsp;
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter) &nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5) &nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3) &nbsp;
