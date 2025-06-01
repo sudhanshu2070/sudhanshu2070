@@ -98,17 +98,17 @@ Welcome to my corner of the web! Here’s a little about me:
 ---
 
 ### 📦 Frameworks & Libraries:
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) &nbsp;
-[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
-![React Native](https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react) &nbsp;
-![Expo](https://img.shields.io/badge/-Expo-black?style=flat-square&logo=expo)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) &nbsp;
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js) &nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular) &nbsp;
-![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android) &nbsp;
 ![MVC](https://img.shields.io/badge/-MVC-black?style=flat-square&logo=microsoft) &nbsp;
+![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android) &nbsp;
+![React Native](https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react) &nbsp;
+![Expo](https://img.shields.io/badge/-Expo-black?style=flat-square&logo=expo)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 
 ---
