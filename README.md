@@ -105,7 +105,7 @@ Welcome to my corner of the web! Here’s a little about me:
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js) &nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular) &nbsp;
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white) &nbsp;
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=spring&logoColor=white) &nbsp;
 ![MVC](https://img.shields.io/badge/-MVC-black?style=flat-square&logo=microsoft) &nbsp;
 ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android) &nbsp;
 ![React Native](https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react) &nbsp;
