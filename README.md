@@ -80,7 +80,7 @@ Welcome to my corner of the web! Here’s a little about me:
 
 ### 🌟 A Few Fun Facts:
 - 😄 **Pronouns**: He/Him
-- ⚡ **Fun Fact**: I’m definitely not a vampire... But I do stay up late, so who knows !!
+- ⚡ **Fun Fact**: I’m definitely not a vampire... But I do stay up late, so who knows !!!
 
 ---
 
